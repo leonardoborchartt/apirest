@@ -1,7 +1,7 @@
 spring:
   datasource:
     password: root
-    url: jdbc:postgresql://localhost:5433/apirest
+    url: jdbc:postgresql://localhost:5432/apirest
     username: postgres
   jpa:
     hibernate:
